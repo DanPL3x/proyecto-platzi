@@ -1,5 +1,5 @@
-# Mi muchos proyectos
+# Mis proyectos
 
-## comentarios cualquiera
+## Comentarios cualquiera
 
-Se utliza para prueba
+Se utliza para prueba de platzi
